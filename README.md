@@ -6,4 +6,12 @@ Este projeto tem como objetivo desenvolver uma solução completa de Business In
 
 O foco do projeto foi aplicar lógica analítica, modelagem avançada de dados e engenharia de fórmulas DAX para transformar tabelas transacionais brutas e descentralizadas em um painel altamente interativo. A solução desenvolvida visa eliminar pontos cegos operacionais e fornecer diagnósticos rápidos e precisos para dar suporte estratégico à tomada de decisão da alta liderança.
 
+![Dashboard de Inteligência Comercial - Visão Geral](Dashboard_pt1.png)
+
+![Dashboard de Inteligência Comercial - Análise Detalhada](Dasshboard_pt2.png)
+
+---
+
+
+
 [Ver Dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiMmVkNjExOTItYzBmYi00ZTVkLWEzNTktZjFmZjliNzY1YjZiIiwidCI6ImIzNGMxZDU1LWE0M2UtNGEyMC05MjE4LWExYTQyZWFiMTQ5YSJ9)
