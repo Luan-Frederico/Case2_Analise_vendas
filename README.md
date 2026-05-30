@@ -10,7 +10,9 @@ O foco do projeto foi aplicar lógica analítica, modelagem avançada de dados e
   <img src="dashboard_vendas_pt1.png" alt="Dashboard de Inteligência Comercial - Visão Geral" style="max-width: 100%; height: auto;">
 </p>
 
-![Dashboard de Inteligência Comercial - Análise Detalhada](dashboard_vendas_pt3.png)
+<p align="center">
+  <img src="dashboard_vendas_pt3.png" alt="Dashboard de Inteligência Comercial - Análise Detalhada" style="max-width: 100%; height: auto;">
+</p>
 
 ---
 
