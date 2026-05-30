@@ -1,1 +1,2 @@
-# Case2_Analise_vendas
+# Case 2: Análise de Vendas - Dashboard Comercial (Power BI)
+
