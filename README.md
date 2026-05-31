@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo desenvolver uma solução completa de **Business Intelligence (BI)** para avaliar o **desempenho comercial**, a **eficiência de faturamento** e o **comportamento de compra** de uma carteira de clientes ativos. A análise e a estruturação dos dados foram conduzidas integralmente no **Power BI**, cobrindo todas as etapas fundamentais de um pipeline de dados: extração, tratamento e limpeza (ETL), modelagem dimensional e design de dashboards.
 
-O foco do projeto foi aplicar lógica analítica, modelagem de dados e engenharia de fórmulas DAX para transformar tabelas transacionais brutas e descentralizadas em um painel altamente interativo. A solução desenvolvida visa eliminar pontos cegos operacionais e fornecer diagnósticos rápidos e precisos para dar suporte estratégico à tomada de decisão.
+O foco do projeto foi aplicar **lógica analítica**, **modelagem de dados** e engenharia de fórmulas **DAX** para transformar tabelas transacionais brutas e descentralizadas em um **painel altamente interativo**. A solução desenvolvida visa eliminar pontos cegos operacionais e fornecer diagnósticos rápidos e precisos para dar suporte estratégico à tomada de decisão.
 
 <p align="center">
   <img src="dashboard_vendas_pt1.png" alt="Dashboard de Inteligência Comercial - Visão Geral" style="max-width: 100%; height: auto;">
@@ -66,13 +66,6 @@ O relatório foi desenvolvido em **Dark Mode** (Fundo escuro moderno para melhor
 
 1. **Painel Técnico (KPI's Gerais):** Visão macro voltada para a liderança, consolidando os principais indicadores de saúde comercial, faturamento e metas de forma rápida e direta.
 2. **Painel Criativo (Diagnósticos Avançados):** Visão analítica profunda que utiliza visuais avançados, como **Gráficos de Dispersão** e **Árvores de Decomposição**, permitindo ao analista identificar tendências, relações, anomalias e assimetrias e mapear diagnósticos e gargalos operacionais ou de vendas.
-
----
-
-# Como Visualizar o Projeto
-1. Faça o download do arquivo *.pbix* presente neste repositório.
-2. Abra o arquivo utilizando o **Power BI Desktop (ou na nuvem)**.
-3. Explore as interações, filtros cruzados e navegações entre as páginas.
 
 ---
 
