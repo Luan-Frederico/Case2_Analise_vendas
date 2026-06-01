@@ -2,8 +2,8 @@
 
 # Introdução
 
-Este projeto tem como objetivo desenvolver uma solução completa de **Business Intelligence (BI)** para avaliar o **desempenho comercial**, a **eficiência de faturamento** e o **comportamento de compra** de uma carteira de clientes ativos. A análise e a estruturação dos dados foram conduzidas integralmente no **Power BI**, cobrindo todas as etapas fundamentais de um pipeline de dados: extração, tratamento e limpeza (ETL), modelagem dimensional e design de dashboards.
-
+Este projeto tem como objetivo desenvolver uma solução completa de **Business Intelligence (BI)** para avaliar o **desempenho comercial**, a **eficiência de faturamento** e o **comportamento de compra** de uma carteira de clientes ativos. A análise e a estruturação dos dados foram conduzidas integralmente no **Power BI**, cobrindo todas as etapas fundamentais de um pipeline de dados: extração, tratamento e limpeza (ETL), modelagem dimensional e design de dashboards.  
+  
 O foco do projeto foi aplicar **lógica analítica**, **modelagem de dados** e engenharia de fórmulas **DAX** para transformar tabelas transacionais brutas e descentralizadas em um **painel altamente interativo**. A solução desenvolvida visa eliminar pontos cegos operacionais e fornecer diagnósticos rápidos e precisos para dar suporte estratégico à tomada de decisão.
 
 <p align="center">
@@ -164,5 +164,15 @@ A Árvore de Decomposição, integrada ao Painel Criativo, atua como uma ferrame
 Na prática, ela permite identificar os **vendedores** que mais vendem certo **produto X** da **subcategoria Y** da **Categoria Z** para certos **clientes**, sendo essencial para acompanhar o fluxo de receita. Como demonstrado no visual, é possível rastrear o faturamento desde o nível macro de categorias até a ponta final da venda, revelando exatamente quais combinações de produtos e clientes estão impulsionando os resultados de cada consultor.
 
 Ao revelar quais clientes e consultores estão por trás da performance de cada item, a árvore elimina pontos cegos operacionais e fornece à gestão uma compreensão granular de quais componentes estão movendo os ponteiros da organização.
+
+---
+
+# Conclusão
+
+Este projeto demonstra como o **domínio do Power BI** e a **aplicação de processos rigorosos de engenharia de dados** — abrangendo ETL, modelagem dimensional e cálculos avançados em DAX — permitem construir uma **visão completa do desempenho comercial**, conectando registros transacionais brutos a diagnósticos estratégicos de alto nível.  
+  
+O foco foi evidenciar a **capacidade analítica**, o **domínio técnico** e a **visão de negócio**, transformando bases de dados descentralizadas em uma estrutura robusta sob a arquitetura Star Schema para eliminar pontos cegos operacionais.  
+  
+Através de visuais de alta **interatividade** e **métricas de vendas**, a solução converte o faturamento bruto em informações estruturadas, garantindo rastreabilidade total e **suporte direto à tomada de decisão** baseada em fatos e dados (data-driven).
 
 [Acesse o Dashboard Completo interativo aqui](https://app.powerbi.com/view?r=eyJrIjoiMmVkNjExOTItYzBmYi00ZTVkLWEzNTktZjFmZjliNzY1YjZiIiwidCI6ImIzNGMxZDU1LWE0M2UtNGEyMC05MjE4LWExYTQyZWFiMTQ5YSJ9)
