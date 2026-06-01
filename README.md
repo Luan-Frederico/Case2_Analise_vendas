@@ -137,4 +137,32 @@ A distribuição do volume revela que a operação possui um **DNA focado em tec
 
 Essa configuração indica uma especialização clara do time de vendas e uma percepção de marca consolidada no setor tech. Para um futuro estratégico, o desafio está em entender se a menor volumetria de eletrodomésticos deve-se a um ticket médio ainda mais elevado ou a uma oportunidade de expansão de mercado. Utilizar a base fiel de clientes de eletrônicos para introduzir produtos de utilidade doméstica via campanhas direcionadas pode ser uma alavanca eficiente para equilibrar o mix de vendas e aumentar o faturamento por cliente.
 
+## Métricas avançadas
+
+A segunda visão do relatório, o **Painel Criativo**, oferece uma visão analítica profunda, projetada para identificar **tendências, relações e anomalias** que impactam a estratégia de vendas. Nele, destacam-se quatro indicadores avançados calculados via DAX que permitem um diagnóstico detalhado do comportamento e da qualidade da carteira de clientes:
+
+- **Faturamento Médio por Cliente:** Este indicador reflete o valor bruto que cada cliente traz, em média, para a operação, confirmando o posicionamento do negócio em contas de alta relevância estratégica.
+- **Média Vendas por Cliente:** Refere-se à taxa de recorrência e fidelidade da base; ao invés de transações isoladas, o faturamento é sustentado por um ciclo constante de recompras por parte dos clientes ativos.
+- **Faturamento Alto TKM (%):** Representa a proporção da receita total proveniente de transações de ticket médio elevado. Ter mais da metade do faturamento vindo de "Alto TKM" evidencia o sucesso na comercialização de produtos de maior valor agregado.
+- **Faturamento Mediano por Cliente:** Representa a receita média da metade (50%) dos clientes ativos. Por estar muito próximo à média, este valor é um forte indicador de saúde e homogeneidade da carteira. Ele comprova que o faturamento total não é distorcido por apenas um ou dois clientes excepcionais, mas sim fruto de uma performance consistente e equilibrada entre os principais parceiros comerciais.
+
+## Faturamento x Vendas x TKM
+
+O gráfico de dispersão no Painel Criativo permite uma análise profunda da eficiência comercial ao cruzar o volume transacional com o retorno financeiro. Abaixo, destacam-se os principais achados sobre essa relação:
+
+- **Correlação Positiva e Comportamento Padrão:** Existe uma tendência clara de **crescimento linear entre o volume de vendas e o faturamento total**. A maioria dos clientes se concentra em um "cluster" saudável de aproximadamente 20 vendas, gerando faturamentos individuais em torno de 100 mil (correspondendo às médias).
+- **Identificação de Outliers:** O visual mapeia clientes que rompem a média, atingindo **mais de 30 vendas** e **faturamentos superiores a 150 mil**, representando os parceiros de maior peso na receita bruta.
+- **A Anomalia do TKM (Ticket Médio):** Um dos insights mais valiosos é a identificação de que o maior Ticket Médio da operação **não** pertence aos clientes que mais faturam ou que compram com mais frequência. Na verdade, o maior TKM está localizado em cliente que registrou um dos menores faturamentos e volumes de venda (cerca de 10 transações no extremo esquerdo do gráfico).  
+Essa distorção revela que, embora esse cliente específico tenha um impacto menor no faturamento acumulado, cada transação realizada por ele é de **altíssimo valor unitário**. Isso valida o indicador de 56,08% de Faturamento Alto TKM, mostrando que a rentabilidade do negócio é sustentada por nichos de **produtos premium**.
+
+Essa descoberta reforça que o dashboard cumpre seu papel de eliminar **"pontos cegos"**, provando que o volume de vendas não é o único driver de sucesso. Para a gestão, esse achado sugere que existe um perfil de cliente **"premium silencioso":** ele compra pouco em termos de recorrência, mas quando compra, adquire os itens de maior valor agregado do portfólio. Uma boa recomendação é que focar na expansão dessa base de alto ticket pode ser uma estratégia mais rentável do que apenas buscar o aumento indiscriminado do volume de vendas transacionais.
+
+## Faturamento e Árvore de Decomposição
+
+A Árvore de Decomposição, integrada ao Painel Criativo, atua como uma ferramenta fundamental para a **rastreabilidade e o diagnóstico profundo do negócio**. Sua grande importância reside na **alta interatividade**, permitindo que o usuário realize um drill-down dinâmico para **avaliar como as receitas se distribuem através de múltiplos níveis de detalhamento** sem a necessidade de múltiplos visuais estáticos.
+
+Na prática, ela permite identificar os **vendedores** que mais vendem certo **produto X** da **subcategoria Y** da **Categoria Z** para certos **clientes**, sendo essencial para acompanhar o fluxo de receita. Como demonstrado no visual, é possível rastrear o faturamento desde o nível macro de categorias até a ponta final da venda, revelando exatamente quais combinações de produtos e clientes estão impulsionando os resultados de cada consultor.
+
+Ao revelar quais clientes e consultores estão por trás da performance de cada item, a árvore elimina pontos cegos operacionais e fornece à gestão uma compreensão granular de quais componentes estão movendo os ponteiros da organização.
+
 [Acesse o Dashboard Completo interativo aqui](https://app.powerbi.com/view?r=eyJrIjoiMmVkNjExOTItYzBmYi00ZTVkLWEzNTktZjFmZjliNzY1YjZiIiwidCI6ImIzNGMxZDU1LWE0M2UtNGEyMC05MjE4LWExYTQyZWFiMTQ5YSJ9)
