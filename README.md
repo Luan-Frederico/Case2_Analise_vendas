@@ -84,7 +84,7 @@ A página inicial do dashboard apresenta o Painel Técnico, uma visão macro pro
 
 Esses indicadores foram posicionados seguindo o padrão de **leitura em Z**, garantindo que as métricas mais críticas de desempenho e volumetria sejam as primeiras informações absorvidas pelo usuário.
 
-## Faturamento Mensal
+## 2. Faturamento Mensal
 
 Logo abaixo do painel de indicadores, o gráfico de Faturamento por Mês detalha a evolução temporal das vendas ao longo de 2024, permitindo identificar padrões de sazonalidade e o ritmo de crescimento do negócio:
 
@@ -95,7 +95,7 @@ Logo abaixo do painel de indicadores, o gráfico de Faturamento por Mês detalha
 
 Num geral, a análise temporal do faturamento valida a **escalabilidade** do negócio ao longo de 2024, demonstrando que a operação não apenas cresceu em volume, mas também amadureceu em termos de previsibilidade. A identificação clara do pico de vendas nos últimos meses fornece um insumo estratégico fundamental para o planejamento preditivo . Com base nesses dados, a gestão pode realizar um provisionamento de estoque e alocação de recursos mais assertivos para os períodos de alta demanda, garantindo que o crescimento observado seja sustentado com eficiência operacional nos ciclos seguintes.
 
-## Faturamento por Cliente
+## 3. Faturamento por Cliente
 
 O ranking de Faturamento por Cliente destaca os principais parceiros comerciais da operação, evidenciando as contas que mais contribuíram para o resultado global. 
 
@@ -103,12 +103,36 @@ O ranking de Faturamento por Cliente destaca os principais parceiros comerciais 
 - Essa distribuição confirma a eficácia da estratégia de foco em **High TKM** (Ticket Médio Alto), onde o sucesso financeiro é impulsionado por um grupo seleto de clientes de alto valor agregado. 
 - O fato de os principais clientes apresentarem valores próximos sugere uma **carteira saudável** e **bem distribuída** entre as contas estratégicas, o que reduz o risco de dependência excessiva de um único comprador.
 
-## Faturamento por Vendedor
+## 4. Faturamento por Vendedor
 
 O gráfico de Faturamento por Vendedor revela a performance individual da força de vendas.
 
 - Com *Carlos* (928,49 mil) e *João* (897,55 mil) liderando os resultados. 
 - É notável que todos os vendedores listados apresentam um desempenho **consistente**, mantendo-se na faixa entre 740 mil e 930 mil de faturamento.
 - A baixa dispersão entre o primeiro e o último colocado do ranking indica uma **equipe comercial madura e homogênea**. Esse equilíbrio é um indicador positivo, pois demonstra que os processos de vendas e o acesso ao mercado estão bem alinhados em todo o time, garantindo resultados robustos sem depender de um único "superstar" para bater as metas.
+
+## 5. Faturamento por Subcategoria e Produto
+
+O gráfico de Faturamento por Produto e Subcategoria utiliza uma estrutura de hierarquia que permite analisar desde as grandes divisões de mercado até os itens individuais mais vendidos (através da dupla seta apontada para baixo).
+
+- **Liderança de Subcategorias:** A subcategoria de **Peripherals** (Periféricos) posiciona-se como o principal motor de receita, acumulando sozinha 994,99 mil. Este valor representa uma vantagem expressiva de cerca de 400 mil..
+
+- **Performance por Produto (Drill-down):** Ao descer para o nível de detalhe por item, o **Smartphone Z10** destaca-se como o "produto estrela" do portfólio, gerando um faturamento de 590,99 mil. Por outro lado, observa-se que a liderança dos Periféricos é consolidada pela performance combinada de dois itens de alto valor: o **Gaming Mouse X500** (541,63mil) e o **Mechanical Keyboard Pro** (453,36 mil).
+
+A análise cruzada entre subcategorias e produtos revela informações estratégicas sobre a composição do faturamento. É notável que o faturamento da subcategoria Phones é composto integralmente (ou quase em sua totalidade) pelas vendas do Smartphone Z10, o que indica uma alta dependência de um único produto específico neste segmento. Já a subcategoria de **Peripherals**, embora líder em faturamento, possui uma **receita mais distribuída** entre diversos itens de alto valor, como o Gaming Mouse X500 e o Mechanical Keyboard Pro. O fato de estar isoladamente no topo com uma distância tão vasta para os demais segmentos indica que a empresa possui uma autoridade de mercado consolidada nesta categoria.
+
+Essa configuração demonstra que, enquanto a empresa possui uma âncora de vendas nos smartphones, sua maior força financeira reside no ecossistema de periféricos, que apresenta um volume agregado superior e menor risco por produto individual. Para a gestão, isso sugere que campanhas de **cross-selling** (venda cruzada) entre o Smartphone Z10 e os periféricos de elite podem ser uma via eficaz para elevar ainda mais o Faturamento e Ticket Médio da operação.
+
+## 6. Volume de Vendas por Categoria
+
+O gráfico de rosca detalha como as **1 mil transações** realizadas no período se distribuem entre os dois grandes segmentos da empresa, fornecendo uma visão clara da representatividade operacional de cada área:
+
+- **Predomínio de Electronics (Eletrônicos):** Esta categoria consolida-se como o principal pilar de movimentação comercial, sendo responsável por 62,1% do volume total, o que equivale a **621 vendas**.
+
+- **Participação de Appliances (Eletrodomésticos):** O segmento de eletrodomésticos responde pelos 37,9% restantes, totalizando **379 transações**.
+
+A distribuição do volume revela que a operação possui um **DNA focado em tecnologia**, com mais de *60%* das interações de venda concentradas em eletrônicos. Ao cruzar este dado com o faturamento, percebemos que a categoria de Electronics não apenas lidera em quantidade de pedidos, mas também sustenta as subcategorias de maior valor financeiro, como Periféricos e Smartphones.
+
+Essa configuração indica uma especialização clara do time de vendas e uma percepção de marca consolidada no setor tech. Para um futuro estratégico, o desafio está em entender se a menor volumetria de eletrodomésticos deve-se a um ticket médio ainda mais elevado ou a uma oportunidade de expansão de mercado. Utilizar a base fiel de clientes de eletrônicos para introduzir produtos de utilidade doméstica via campanhas direcionadas pode ser uma alavanca eficiente para equilibrar o mix de vendas e aumentar o faturamento por cliente.
 
 [Acesse o Dashboard Completo interativo aqui](https://app.powerbi.com/view?r=eyJrIjoiMmVkNjExOTItYzBmYi00ZTVkLWEzNTktZjFmZjliNzY1YjZiIiwidCI6ImIzNGMxZDU1LWE0M2UtNGEyMC05MjE4LWExYTQyZWFiMTQ5YSJ9)
