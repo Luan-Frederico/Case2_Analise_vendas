@@ -97,13 +97,18 @@ Num geral, a análise temporal do faturamento valida a **escalabilidade** do neg
 
 ## Faturamento por Cliente
 
-O ranking de Faturamento por Cliente destaca os principais parceiros comerciais da operação, evidenciando as contas que mais contribuíram para o resultado global. No topo da lista, destacam-se Nicole (173,81 mil) e Melanie (162,78 mil), seguidas por outros clientes que mantêm uma média de faturamento em torno de 130 mil.
-Essa distribuição confirma a eficácia da estratégia de foco em High TKM (Ticket Médio Alto), onde o sucesso financeiro é impulsionado por um grupo seleto de clientes de alto valor agregado. 
-O fato de os principais clientes apresentarem valores próximos sugere uma **carteira saudável** e **bem distribuída** entre as contas estratégicas, o que reduz o risco de dependência excessiva de um único comprador.
+O ranking de Faturamento por Cliente destaca os principais parceiros comerciais da operação, evidenciando as contas que mais contribuíram para o resultado global. 
+
+- No topo da lista, destacam-se *Nicole* (173,81 mil) e *Melanie* (162,78 mil), seguidas por outros clientes que mantêm uma média de faturamento em torno de *130 mil*.
+- Essa distribuição confirma a eficácia da estratégia de foco em **High TKM** (Ticket Médio Alto), onde o sucesso financeiro é impulsionado por um grupo seleto de clientes de alto valor agregado. 
+- O fato de os principais clientes apresentarem valores próximos sugere uma **carteira saudável** e **bem distribuída** entre as contas estratégicas, o que reduz o risco de dependência excessiva de um único comprador.
 
 ## Faturamento por Vendedor
 
-O gráfico de Faturamento por Vendedor revela a performance individual da força de vendas, com Carlos (928,49 mil) e João (897,55 mil) liderando os resultados. É notável que todos os vendedores listados apresentam um desempenho **consistente**, mantendo-se na faixa entre 740 mil e 930 mil de faturamento.
-A baixa dispersão entre o primeiro e o último colocado do ranking indica uma **equipe comercial madura e homogênea**. Esse equilíbrio é um indicador positivo, pois demonstra que os processos de vendas e o acesso ao mercado estão bem alinhados em todo o time, garantindo resultados robustos sem depender de um único "superstar" para bater as metas.
+O gráfico de Faturamento por Vendedor revela a performance individual da força de vendas.
+
+- Com *Carlos* (928,49 mil) e *João* (897,55 mil) liderando os resultados. 
+- É notável que todos os vendedores listados apresentam um desempenho **consistente**, mantendo-se na faixa entre 740 mil e 930 mil de faturamento.
+- A baixa dispersão entre o primeiro e o último colocado do ranking indica uma **equipe comercial madura e homogênea**. Esse equilíbrio é um indicador positivo, pois demonstra que os processos de vendas e o acesso ao mercado estão bem alinhados em todo o time, garantindo resultados robustos sem depender de um único "superstar" para bater as metas.
 
 [Acesse o Dashboard Completo interativo aqui](https://app.powerbi.com/view?r=eyJrIjoiMmVkNjExOTItYzBmYi00ZTVkLWEzNTktZjFmZjliNzY1YjZiIiwidCI6ImIzNGMxZDU1LWE0M2UtNGEyMC05MjE4LWExYTQyZWFiMTQ5YSJ9)
