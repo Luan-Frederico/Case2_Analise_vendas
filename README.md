@@ -7,11 +7,11 @@ Este projeto tem como objetivo desenvolver uma solução completa de **Business 
 O foco do projeto foi aplicar **lógica analítica**, **modelagem de dados** e engenharia de fórmulas **DAX** para transformar tabelas transacionais brutas e descentralizadas em um **painel altamente interativo**. A solução desenvolvida visa eliminar pontos cegos operacionais e fornecer diagnósticos rápidos e precisos para dar suporte estratégico à tomada de decisão.
 
 <p align="center">
-  <img src="dashboard_vendas_pt1.png" alt="Dashboard de Inteligência Comercial - Visão Geral" style="max-width: 100%; height: auto;">
+  <img src="Dashboard_vendas_pt1.png" alt="Dashboard de Inteligência Comercial - Visão Geral" style="max-width: 100%; height: auto;">
 </p>
 
 <p align="center">
-  <img src="dashboard_vendas_pt3.png" alt="Dashboard de Inteligência Comercial - Análise Detalhada" style="max-width: 100%; height: auto;">
+  <img src="Dashboard_vendas_pt3.png" alt="Dashboard de Inteligência Comercial - Análise Detalhada" style="max-width: 100%; height: auto;">
 </p>
 
 ---
