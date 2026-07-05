@@ -65,7 +65,7 @@ Além disso, a análise foi desdobrada para avaliar a performance do faturamento
 O relatório foi desenvolvido em **Dark Mode** (Fundo escuro moderno para melhor contraste visual e destacar KPI's), aplicando conceitos modernos de UI/UX, navegação intuitiva por **botões** e foco na **redução da fadiga visual** do usuário técnico. Ele é dividido em duas visões estratégicas:
 
 1. **Painel Técnico (KPI's Gerais):** Visão macro voltada para a liderança, consolidando os principais indicadores de saúde comercial, faturamento e metas de forma rápida e direta.
-2. **Painel Criativo (Diagnósticos Avançados):** Visão analítica profunda que utiliza visuais avançados, como **Gráficos de Dispersão** e **Árvores de Decomposição**, permitindo ao analista identificar tendências, relações, anomalias e assimetrias e mapear diagnósticos e gargalos operacionais ou de vendas.
+2. **Painel Criativo (Diagnósticos Avançados):** Visão analítica profunda que utiliza métricas e visuais avançados, como **Faturamento Médio e Mediano** e **Gráficos de Dispersão**, permitindo ao analista identificar tendências, relações, anomalias e assimetrias e mapear diagnósticos e gargalos operacionais ou de vendas.
 
 ---
 
@@ -146,7 +146,7 @@ A segunda visão do relatório, o **Painel Criativo**, oferece uma visão analí
 - **Faturamento Alto TKM (%):** Representa a proporção da receita total proveniente de transações de ticket médio elevado. Ter mais da metade do faturamento vindo de "Alto TKM" evidencia o sucesso na comercialização de produtos de maior valor agregado.
 - **Faturamento Mediano por Cliente:** Representa a receita média da metade (50%) dos clientes ativos. Por estar muito próximo à média, este valor é um forte indicador de saúde e homogeneidade da carteira. Ele comprova que o faturamento total não é distorcido por apenas um ou dois clientes excepcionais, mas sim fruto de uma performance consistente e equilibrada entre os principais parceiros comerciais.
 
-## Faturamento x Vendas x TKM
+## Faturamento x Vendas
 
 O gráfico de dispersão no Painel Criativo permite uma análise profunda da eficiência comercial ao cruzar o volume transacional com o retorno financeiro. Abaixo, destacam-se os principais achados sobre essa relação:
 
